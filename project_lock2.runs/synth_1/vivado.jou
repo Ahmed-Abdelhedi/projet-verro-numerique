@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Feb 25 11:54:26 2025
+# Process ID: 25836
+# Current directory: C:/Users/User/Downloads/Atelier7p/project_lock2/project_lock2.runs/synth_1
+# Command line: vivado.exe -log DigitalLock_Multiplier.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DigitalLock_Multiplier.tcl
+# Log file: C:/Users/User/Downloads/Atelier7p/project_lock2/project_lock2.runs/synth_1/DigitalLock_Multiplier.vds
+# Journal file: C:/Users/User/Downloads/Atelier7p/project_lock2/project_lock2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source DigitalLock_Multiplier.tcl -notrace
